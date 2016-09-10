@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Verhalenwebsite</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+    <link rel="stylesheet" href="#">
+</head>
+
+<body>
+
+    <header>
+        <img src="images/filter-icon.png" alt="filter" class="filter-icon">
+        <img src="images/dfds-logo.png" alt="logo" class="logo">
+        <img src="images/search-icon.png" alt="search" class="search-icon">
+    </header>
+
+    <main>
+        <article>
+            <h1>Martin Bril</h1>
+            <section>Gepubliceerd op: <a href="">1 juli 2011</a>, Auteur: <a href="">Molovich</a>, Reacties: <a href="">3 reacties</a></section>
+
+            <p>Centraal Station. Iedereen gaat er naartoe, niemand moet er zijn. Behalve om verder te reizen. Ik stap uit de bus, lijn 21. Van Geuzenveld naar Centraal Station. Mijn zoon slaapt in zijn kinderwagen. Eindelijk. Het is druk op het plein, en toch heerst er een rust. De mensen zijn met zichzelf bezig. Kop in de kraag, ogen op de eigen voeten.</p>
+            <input type="submit" value="Lees meer">
+        </article>
+
+        <article>
+            <h1>Steenkolenfrans</h1>
+            <section>Gepubliceerd op: <a href="">4 juli 2011</a>, Auteur: <a href="">Molovich</a>, Reacties: <a href="">2 reacties</a></section>
+
+            <p>Le premier fevrièr 2011. Presque midi. Le bus s’arrête. Ligne 21. Place de Gare Centrale. Je marche au derrière d’un poussette. Mon fils dort. Je suis en route au Bibliothèque Public pour emprunteur Exercices de Style de Raymond Queneau. C’est un livre très dificile d’acquérir. Mais zut alors, quelle ravage ici! Il y a beaucoup de puits de travaille! Les politis enfonsent, les foret forent.</p>
+            <input type="submit" value="Lees meer">
+        </article>
+
+        <article>
+            <h1>Freudiaans</h1>
+            <section>Gepubliceerd op: <a href="">6 juli 2011</a>, Auteur: <a href="">Molovich</a>, Reacties: <a href="">6 reacties</a></section>
+
+            <p>Ik stap uit de lul. Mijn aarsrivaal ligt te slapen in zijn kinderwagen. Wat een kutweer. De mensen zijn met zichzelf bezig, wat er hoogstwaarschijnlijk op neerkomt dat ze aan seks met hun moeder denken. Ik ben op weg naar de Openaarse Bilbiotheek van Amsterdam, om Stijloefeningen te lenen, een boek waarin Raymond Queneau op 99 verschillende manieren probeert te vertellen dat hij homoseksueel is en seks wil met een jongen met een lange lul, euh nek. Ik loop over een pik, met aan weerszijde diepe bouwkutten. Gigantische heipalen en drillende drilboren penetreren de koude grond.</p>
+            <input type="submit" value="Lees meer">
+        </article>
+    </main>
+
+    <footer>&copy; 2016 Sybille Mulder</footer>
+
+
+</body>
+
+</html>
